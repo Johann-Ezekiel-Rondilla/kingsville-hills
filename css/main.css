@@ -1,0 +1,24 @@
+.bg-kingsville {
+    background-image: url('../img/kingsville_bg.jpg');
+    /* background-size: cover; */
+    background-position: center;    
+}
+
+.kingsville-bar {
+    background-color: #d6d31b;
+}
+
+#accordionSidebar, #accordionSidebar.toggled {
+    transition: width 0.25s ease-in-out !important;
+}
+
+/* FullCalendar */
+.fc .fc-toolbar-title {
+    font-size: 1.2rem !important;
+    font-weight: bold !important;
+}
+
+.fc-header-toolbar {
+    margin-bottom: 1rem !important; 
+}
+/* End of FullCalendar bit */
